@@ -23,15 +23,17 @@ hr{
 .App-nav a:hover {
   text-decoration: none;
   font-size: 110%;
-  background-color: rgb(14, 14, 185);
+  color: white;
+  background-color: rgb(30, 30, 245);
   border: none;
   border-radius: 6px;
   padding: 10px 20px;
+  transition: ease-in-out 1s;
 }
 
 .App-nav a.active {
   color: white;
-  background-color: rgb(14, 14, 185);
+  background-color: rgb(30, 30, 245);
   border: none;
   border-radius: 6px;
   padding: 10px 20px;
