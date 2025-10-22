@@ -28,7 +28,7 @@ hr{
   border: none;
   border-radius: 6px;
   padding: 10px 20px;
-  transition: ease-in-out smooth 0.7s;
+  transition: ease-in 0.7s;
 }
 
 .App-nav a.active {
